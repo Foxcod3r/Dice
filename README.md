@@ -1,6 +1,6 @@
 # Dice
 
-Hello my friend
+<h1>Hello my friend<\h1>
 
 Here we have written a simple game using Python
 
